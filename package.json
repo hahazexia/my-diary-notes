@@ -1,0 +1,21 @@
+{
+  "name": "my-diary-notes",
+  "version": "1.0.0",
+  "description": "我的日记",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahazexia/my-diary-notes.git"
+  },
+  "author": "hahazexia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahazexia/my-diary-notes/issues"
+  },
+  "homepage": "https://github.com/hahazexia/my-diary-notes#readme"
+}
